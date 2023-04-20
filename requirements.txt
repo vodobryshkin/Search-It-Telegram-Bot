@@ -1,0 +1,10 @@
+pyTelegramBotApi
+wikipedia
+translate
+collections
+re
+requests
+beautifulsoup4
+time
+pyowm
+pycoingecko
