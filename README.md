@@ -1,5 +1,6 @@
 # Search-It-Telegram-Bot
 Бот на Telegram с использованием pyTelebotApi.
+@SearchIt_quick_bot
 
 Бот имеет следующие функции:
 1. Нахождение информации в википедии(реализовано с помощью модуля wikipedia)
